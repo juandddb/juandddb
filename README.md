@@ -12,5 +12,5 @@ Estudiante de la licenciatura en sistemas de la UNLP.
 ## 📫 
 
 - Correo electrónico: juandidb@gmail.com
-- LinkedIn: [juan-linkedin](https://www.linkedin.com/in/juan-linkedin)
+- LinkedIn: [juan-linkedin](https://www.linkedin.com/in/juan-di-benedetto-a9b53a245/)
 
