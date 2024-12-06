@@ -10,7 +10,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-EE1C25?style=flat&logo=delphi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00618D?style=flat&logo=mysql&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-000000?style=flat&logo=pascal&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=assembly&logoColor=white)
 
 ## 📬 ¡Contactame!
