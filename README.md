@@ -1,6 +1,6 @@
 # ¡Hola, soy Juan! 👋
 
-Soy estudiante de la licenciatura en sistemas de la UNLP.
+Estudiante de la licenciatura en sistemas de la UNLP.
 
 ## 🛠️ 
 - Lenguajes de Programación: Java, JS, CSS, HTML, Delphi, SQL, Pascal, Assembly
