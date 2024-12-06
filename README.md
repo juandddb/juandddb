@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, soy Juan! 👋
 
-<!--
-**juandddb/juandddb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la licenciatura en sistemas de la UNLP.
 
-Here are some ideas to get you started:
+## 🛠️ 
+- Lenguajes de Programación: Java, JS, CSS, HTML, Delphi, SQL, Pascal, Assembly
+- Herramientas: Git, Visual Studio Code
+- Intereses: Música, Desarrollo Web, Programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 
+![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juandddb&show_icons=true&theme=radical)
+
+## 📫 
+
+- Correo electrónico: juandidb@gmail.com
+- LinkedIn: [juan-linkedin](https://www.linkedin.com/in/juan-linkedin)
+
