@@ -1,8 +1,9 @@
-# ¡Hola, soy Juan! 👋
+# ¡Hola, soy Juan!
 
-Estudiante de la licenciatura en sistemas de la UNLP.
+👨‍💻 **Estudiante de Lic. en Sistemas en la Universidad Nacional de La Plata.**  
 
-## 🛠️  Lenguajes de Programación:
+
+## 🔧 Lenguajes de Programación:
 ![Java](https://img.shields.io/badge/Java-0f4b7b?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white)
@@ -12,11 +13,6 @@ Estudiante de la licenciatura en sistemas de la UNLP.
 ![Pascal](https://img.shields.io/badge/Pascal-000000?style=flat&logo=pascal&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=assembly&logoColor=white)
 
-
-## 📈 
-![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=juandddb&show_icons=true&theme=radical)
-
-## 📫  Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/juandddb)
-- [Correo electrónico](mailto:juandddb@gmail.com)
+## 📬 ¡Conectemos!
+[![LinkedIn](https://www.linkedin.com/in/juan-di-benedetto-a9b53a245/)
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juandidb@gmail.com)
