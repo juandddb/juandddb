@@ -1,4 +1,4 @@
-# ¡Hola, soy Juan!
+# soy Juan!
 
 👨‍💻 **Estudiante de Lic. en Sistemas en la Universidad Nacional de La Plata.**  
 
